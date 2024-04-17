@@ -13,3 +13,6 @@ To run the code, you will need the Pandas package installed.
 To reproduce the figures in the publiation, run the command:
 	bash bin/run_analysis.sh
 
+This script will automatically pull text of the 2 books to process
+(Frankenstein and Dracula) from project Gutenberg (Gutenberg.org) and place them into 'data' directory. 
+Internet access is required. 
